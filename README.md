@@ -9,6 +9,14 @@
 
 ---
 
+
+🚔 e-SewaPustika (Police Document Management System)
+📌 Project Overview
+
+e-SewaPustika is a backend-based Police Document Management System designed to manage official police records such as documents, punishments, rewards, and attendance tracking in a structured and secure way.
+
+This system was fully developed using the Laravel framework, with a strong focus on role-based access control and data filtering.
+
 ### 🛒 Credence Tracker E-commerce Website
 - Developed OTP-based login system  
 - Implemented checkout flow and order tracking  
